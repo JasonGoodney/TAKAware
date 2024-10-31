@@ -181,9 +181,9 @@ class IconData {
         case "s", "j", "k", "h":
             s2525C = "sh"
         case "u":
-            s2525C = "u"
+            s2525C = "su"
         default:
-            s2525C = "u"
+            s2525C = "su"
         }
         
         var cotCharacters = Array(cotType)
